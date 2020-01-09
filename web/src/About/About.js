@@ -58,7 +58,7 @@ export default class AboutComponent extends Component {
                         </Table.Row>
                         <Table.Row>
                             <Table.Cell>License</Table.Cell>
-                            <Table.Cell><a href="https://github.com/mxschmitt/golang-url-shortener/blob/master/LICENSE.md" target="_blank" rel="noopener noreferrer">MIT</a></Table.Cell>
+                            <Table.Cell><a href="https://github.com/mxschmitt/golang-url-shortener/blob/master/LICENSE" target="_blank" rel="noopener noreferrer">MIT</a></Table.Cell>
                         </Table.Row>
                     </Table.Body>
                 </Table>}
